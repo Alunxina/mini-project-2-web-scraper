@@ -1,0 +1,20 @@
+{
+  "name": "mini-project-2-web-scraper",
+  "version": "1.0.0",
+  "main": ".prettierrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alunxina/mini-project-2-web-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alunxina/mini-project-2-web-scraper/issues"
+  },
+  "homepage": "https://github.com/Alunxina/mini-project-2-web-scraper#readme",
+  "keywords": [],
+  "description": ""
+}
