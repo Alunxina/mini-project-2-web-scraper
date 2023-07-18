@@ -16,5 +16,10 @@
   },
   "homepage": "https://github.com/Alunxina/mini-project-2-web-scraper#readme",
   "keywords": [],
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "fast-csv": "^4.3.6",
+    "https": "^1.0.0"
+  }
 }
